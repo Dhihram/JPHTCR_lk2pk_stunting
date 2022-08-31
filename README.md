@@ -1,11 +1,11 @@
 # Family Vulnerability and Nutritional Status of Children during COVID-19 Pandemic
 A. Mukramin Yusuf1*, Dhihram Tenrisau2, Healthy Hidayanti3, Abdul Haris Ibrahim4, Ardiansyah Bahar5, Sarifudin5, Yoesrianto Tahir5, Adhyanti6, Elma Alfiah1
-1Nutrition Study Program, Universitas Al-Azhar Indonesia, Jakarta, Indonesia
-2Epidemiology Master Program, Epidemiology Department, Faculty of Public Health, Universitas Indonesia, Depok, Indonesia
-3Nutrition Science Departement, Public Health Faculty, Hasanuddin University, Makassar, Indonesia
-4Departmenet of Health Informatics, School of Information and School of Public Health, University of Michigan
-5Health Development and Policy Institute (LK2PK), Indonesia
-6Health Polytechnic of Palu, Palu, Indonesia
+<p> 1Nutrition Study Program, Universitas Al-Azhar Indonesia, Jakarta, Indonesia </p>
+<p> 2Epidemiology Master Program, Epidemiology Department, Faculty of Public Health, Universitas Indonesia, Depok, Indonesia </p>
+<p> 3Nutrition Science Departement, Public Health Faculty, Hasanuddin University, Makassar, Indonesia </p>
+<p> 4Departmenet of Health Informatics, School of Information and School of Public Health, University of Michigan </p>
+<p> 5Health Development and Policy Institute (LK2PK), Indonesia </p>
+<p> 6Health Polytechnic of Palu, Palu, Indonesia </p>
 <p> *Corresponding Author. Email: amukraminyusuf@gmail.com </p>
 
 <p> Abstract </p>
