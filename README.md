@@ -7,6 +7,8 @@ A. Mukramin Yusuf1*, Dhihram Tenrisau2, Healthy Hidayanti3, Abdul Haris Ibrahim4
 <p> 5Health Development and Policy Institute (LK2PK), Indonesia </p>
 <p> 6Health Polytechnic of Palu, Palu, Indonesia </p>
 <p> *Corresponding Author. Email: amukraminyusuf@gmail.com </p>
+<p> DOI: https://doi.org/10.14710/jphtcr.v5i2.13758 </p>
+
 
 <p> Abstract </p>
 Introduction: COVID-19 infected millions of people and became the main mortality worldwide. The COVID-19 also affected other health problems; nutritional problems. This study was aimed to find the factors that affected the nutritional status and socio-economic during the COVID-19 pandemic in a Neighborhood of DKI Jakarta. 
